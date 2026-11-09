@@ -64,7 +64,7 @@ export default function Hero() {
 
             <div className='relative w-72 h-72 sm:w-85 sm:h-85 lg:w-96 lg:h-96 rounded-3xl overflow-hidden border-4 border-gray-800 group-hover:border-blue-500 bg-gray-950 shadow-2xl group-hover:scale-105 transition-all duration-500'>
               <img
-                src='/me1.jpg'
+                src='/meq.jpg'
                 alt='Abdo Ashraf'
                 className='w-full h-full object-cover group-hover:scale-110 transition-transform duration-700'
               />

@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'عبدالرحمن أشرف | Portfolio',
-  description: 'بورتفوليو احترافي بتصميم داكن وألوان نيون مميزة',
+  title: 'Abdelrahman | Portfolio',
+  description: 'Professional portfolio with a dark design and distinctive neon colors',
 };
 
 export default function RootLayout({
